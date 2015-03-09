@@ -8,13 +8,24 @@ body {
      -moz-background-size: cover;
        -o-background-size: cover;
           background-size: cover;
-  font-family: 'Droid Sans', serif;
+  font-family: 'PT Serif', serif;
   color: #194719;
 }
 
 h1 {
   text-align: center;
-  
+}
+
+h1 small {
+    color: #1F4D1F;
+}
+
+h3 {
+    color: rgba(255,255,255,0.7);
+    background-color: rgba(20,20,20,0.5);
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #backgroundImageLoader {
@@ -42,16 +53,15 @@ h1 {
 #apps {
   text-align: center;
   background-color: rgba(193, 202, 230, .7);
-  margin-top: 45px;
 }
 
 .customBtn {
   margin: 7px;
-  
+  color: #194719;
 }
 
 .page-header {
 	padding-top: 8px;
 	margin-bottom: 45px;
-	background-color: rgba(200,200,200,0.9);
+	background-color: rgba(200,200,200,0.8);
 }
