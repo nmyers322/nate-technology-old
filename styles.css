@@ -10,6 +10,8 @@ body {
           background-size: cover;
   font-family: 'PT Serif', serif;
   color: #194719;
+  zoom: 1.5;
+  -moz-transform: scale(1.5);
 }
 
 h1 {
@@ -47,12 +49,12 @@ h3 {
 
 #menu {
   text-align: center;
-  background-color: rgba(153, 230, 153, .7);
+  background-color: rgba(153, 230, 153, .8);
 }
 
 #apps {
   text-align: center;
-  background-color: rgba(193, 202, 230, .7);
+  background-color: rgba(193, 202, 230, .8);
 }
 
 .customBtn {
@@ -63,5 +65,5 @@ h3 {
 .page-header {
 	padding-top: 8px;
 	margin-bottom: 45px;
-	background-color: rgba(200,200,200,0.8);
+	background-color: rgba(200,200,200,0.9);
 }
