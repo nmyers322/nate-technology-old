@@ -8,7 +8,7 @@ var menuItems = {
   'LinkedIn': {'url': 'http://www.linkedin.com/in/nmyers322', 'glyph': 'link'},
   'GitHub': {'url': 'http://www.github.com/nmyers322', 'glyph': 'wrench'},
   'StackOverflow': {'url': 'http://stackoverflow.com/users/2451856/nate-bit-int', 'glyph': 'question-sign'},
-  'Resume': {'url': 'Nathanial%20Myers%20-%20Resume%20November%202014.doc', 'glyph': 'file'},
+  'Resume': {'url': 'Nathanial%20Myers%20-%20Resume%20July%202017.doc', 'glyph': 'file'},
   'Contact': {'url': '#', 'glyph': 'send', 'attr': 'data-toggle=\"modal\" data-target=\"#contact\"'},
   
 };
